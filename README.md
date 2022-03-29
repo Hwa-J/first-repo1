@@ -29,4 +29,6 @@ animal.append('kangaroo')
 
 ![A man is sitting on the char](imgs/man-on-the-chair.jpg)
 
+## Contributing
+
 
